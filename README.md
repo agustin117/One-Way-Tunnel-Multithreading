@@ -1,6 +1,6 @@
 # One-Way-Tunnel-Multithreading
 
-CSCI 144 Project Report
+CSCI 144 - Project Report
 
 For the project I created 3 threads which each simulate and run certain things. The first thread we called carNorth which is supposed to produce random number of cars in the north direction. Second thread is carSouth which involves in producing random number of cars in the south direction. Finally, we have a thread called passThroughTunnel which passes the cars through the tunnel.
 
